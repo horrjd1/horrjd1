@@ -25,7 +25,7 @@ After testing those apps I started making some basic sketches of the layout and 
 
 ### Wireframes
 
-<a src="imgs/multimedia/wireframes/Wireframe-Homework.jpg">
+<a href="imgs/multimedia/wireframes/Wireframe-Homework.jpg">
   <img src="imgs/multimedia/wireframes/Wireframe-Homework.jpg" alt="image" width="200"/>
 </a>
 <img src="imgs/multimedia/wireframes/Wireframe-Menu.jpg" alt="image" width="200">
