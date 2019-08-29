@@ -20,7 +20,7 @@ before I started making the wireframes I downloaded 7 homework/task manager apps
 
 ### Wireframes
 
-![Image](imgs/multimedia/wireframes/Wireframe-Homework.jpg "image 1")
+![Image](imgs/multimedia/wireframes/Wireframe-Homework.jpg | width=100)
 
 ### Mockups
 
