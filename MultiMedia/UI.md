@@ -25,14 +25,30 @@ After testing those apps I started making some basic sketches of the layout and 
 
 ### Wireframes
 
+<figure>
 <a href="imgs/multimedia/wireframes/Wireframe-Homework.jpg">
-  <img src="imgs/multimedia/wireframes/Wireframe-Homework.jpg" alt="image" width="200"/>
+  <img src="imgs/multimedia/wireframes/Wireframe-Homework.jpg" alt="image" width="200" />
 </a>
-<img src="imgs/multimedia/wireframes/Wireframe-Menu.jpg" alt="image" width="200">
-<img src="imgs/multimedia/wireframes/Wireframe-AddHomework.jpg" alt="image" width="200">
-<img src="imgs/multimedia/wireframes/Wireframe-Projects.jpg" alt="image" width="200">
-<img src="imgs/multimedia/wireframes/Wireframe-ProjectItems.jpg" alt="image" width="200">
-<img src="imgs/multimedia/wireframes/Wireframe-Calander.jpg" alt="image" width="200">
+  <figcaption>
+    Homework Screen
+  </figcaption>
+ </figure>
+ 
+<a href="imgs/multimedia/wireframes/Wireframe-Menu.jpg">
+<img src="imgs/multimedia/wireframes/Wireframe-Menu.jpg" alt="image" width="200"/>
+</a>
+<a href="imgs/multimedia/wireframes/Wireframe-AddHomework.jpg">
+<img src="imgs/multimedia/wireframes/Wireframe-AddHomework.jpg" alt="image" width="200"/>
+</a>
+<a href="imgs/multimedia/wireframes/Wireframe-Projects.jpg">
+<img src="imgs/multimedia/wireframes/Wireframe-Projects.jpg" alt="image" width="200"/>
+</a>
+<a href="imgs/multimedia/wireframes/Wireframe-ProjectItems.jpg">
+<img src="imgs/multimedia/wireframes/Wireframe-ProjectItems.jpg" alt="image" width="200"/>
+</a>
+<a href="imgs/multimedia/wireframes/Wireframe-Calander.jpg">
+<img src="imgs/multimedia/wireframes/Wireframe-Calander.jpg" alt="image" width="200"/>
+</a>
 
 ### Mockups
 
