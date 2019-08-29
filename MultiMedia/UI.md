@@ -29,6 +29,12 @@ before I started making the wireframes I downloaded 7 homework/task manager apps
 
 ### Mockups
 
+<img src="imgs/multimedia/mockups/Mockup-Homework.jpg" alt="image" width="250">
+<img src="imgs/multimedia/mockups/Mockup-Menu.jpg" alt="image" width="250">
+<img src="imgs/multimedia/mockups/Mockup-AddHomework.jpg" alt="image" width="250">
+<img src="imgs/multimedia/mockups/Mockup-Projects.jpg" alt="image" width="250">
+<img src="imgs/multimedia/mockups/Mockup-ProjectItems.jpg" alt="image" width="250">
+<img src="imgs/multimedia/mockups/Mockup-Calander.jpg" alt="image" width="250">
 
 ### Design Decisions
 
