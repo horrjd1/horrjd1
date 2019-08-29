@@ -20,8 +20,12 @@ before I started making the wireframes I downloaded 7 homework/task manager apps
 
 ### Wireframes
 
-![Image](imgs/multimedia/wireframes/Wireframe-Homework.jpg | width=100)
-<img src="imgs/multimedia/wireframes/Wireframe-Homework.jpg" alt="image" width="100">
+<img src="imgs/multimedia/wireframes/Wireframe-Homework.jpg" alt="image" width="400">
+<img src="imgs/multimedia/wireframes/Wireframe-Menu.jpg" alt="image" width="400">
+<img src="imgs/multimedia/wireframes/Wireframe-AddHomework.jpg" alt="image" width="400">
+<img src="imgs/multimedia/wireframes/Wireframe-Projects.jpg" alt="image" width="400">
+<img src="imgs/multimedia/wireframes/Wireframe-ProjectItems.jpg" alt="image" width="400">
+<img src="imgs/multimedia/wireframes/Wireframe-Calander.jpg" alt="image" width="400">
 
 ### Mockups
 
