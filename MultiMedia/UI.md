@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Multi Media UI Assignment
 
-You can use the [editor on GitHub](https://github.com/horrjd1/horrjd1.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Tools
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+For this assignment I used Adobe Illustrator for the wireframes and Photoshop for the mock-ups.
 
-### Markdown
+The reason why I used Illustrator for the wireframes is because of how it manages its objects. Every shape placed on the page can be moved and resized separately even when they're on the same layer. Since Illustrator is a vector-based software the elements never lost any quality. This was useful for making the wireframes as I was moving and changing the elements on the page frequently.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Sketches
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### Wireframes
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+### Mockups
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/horrjd1/horrjd1.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
