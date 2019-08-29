@@ -9,6 +9,14 @@ The reason why I used Illustrator for the wireframes is because of how it manage
 
 ### Sketches
 
+before I started making the wireframes I downloaded 7 homework/task manager apps so that I could keep my app consistent
+- Study Planner
+- Dreamie Planner
+- Remember the Milk
+- Any.do
+- Planner Pro
+- School Planner
+- MyLifeOrganized: To-Do List
 
 ### Wireframes
 
@@ -28,3 +36,6 @@ I’ve kept my app very consistent with other similar apps and software
 -	All of my icons are blocky versions of already existing icons
 -	The menu button is located in the top right
 -	The add button is in the bottom right
+- checkboxes are located on the left of a task
+- icons to edit tasks are on the right
+-
