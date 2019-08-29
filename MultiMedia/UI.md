@@ -20,8 +20,8 @@ before I started making the wireframes I downloaded 7 homework/task manager apps
 
 After testing those apps I started making some basic sketches of the layout and the UI elements.
 
-<img src="imgs/multimedia/sketches/scan1.jpg" alt="image" width="200">
-<img src="imgs/multimedia/sketches/scan2.jpg" alt="image" width="200">
+<img src="imgs/multimedia/sketches/Scan1.jpg" alt="image" width="200">
+<img src="imgs/multimedia/sketches/Scan2.jpg" alt="image" width="200">
 
 ### Wireframes
 
