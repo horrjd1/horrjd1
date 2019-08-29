@@ -39,4 +39,3 @@ I’ve kept my app very consistent with other similar apps and software
 -	The add button is in the bottom right
 - checkboxes are located on the left of a task
 - icons to edit tasks are on the right
--
