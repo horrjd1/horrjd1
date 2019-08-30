@@ -1,6 +1,6 @@
-## Multi Media UI Assignment
+# Multi Media UI Assignment
 
-### Tools
+## Tools
 
 For this assignment I used Adobe Illustrator for the wireframes and Photoshop for the mock-ups.
 
@@ -12,7 +12,7 @@ It was also the software that I was more familiar with
 I made the wireframes and the mockups to be a resolution of 750 x 1334. I did this becaus ethat is the resolution of the iphone 6 which is the best selling and most used touchscreen phone. I exported all of my images in the .jpg format. I did this because jpgs are a lossy format (meaning that it gets compressed), This will make them load faster on the web page im deploying them on. Also they are just wireframes and mockups so it doesnt matter if some of the quality is lost 
 
 
-### Sketches
+## Sketches
 
 before I started making the wireframes I downloaded 7 homework/task manager apps to see the features and the general layout home planner apps follow. The ones I tested were:
 - Study Planner
@@ -28,33 +28,39 @@ using those apps as a bases I started making some basic sketches of the layout a
 <img src="imgs/multimedia/sketches/Scan1.jpg" alt="image" width="200">
 <img src="imgs/multimedia/sketches/Scan2.jpg" alt="image" width="200">
 
-### Wireframes
+## Wireframes
 
+### Agenda
 <a href="imgs/multimedia/wireframes/Wireframe-Homework.jpg">
   <img src="imgs/multimedia/wireframes/Wireframe-Homework.jpg" alt="image" width="200" />
 </a>
  
+### Menu
 <a href="imgs/multimedia/wireframes/Wireframe-Menu.jpg">
 <img src="imgs/multimedia/wireframes/Wireframe-Menu.jpg" alt="image" width="200"/>
 </a>
 
+### Add Homework
 <a href="imgs/multimedia/wireframes/Wireframe-AddHomework.jpg">
 <img src="imgs/multimedia/wireframes/Wireframe-AddHomework.jpg" alt="image" width="200"/>
 </a>
 
+### Projects
 <a href="imgs/multimedia/wireframes/Wireframe-Projects.jpg">
 <img src="imgs/multimedia/wireframes/Wireframe-Projects.jpg" alt="image" width="200"/>
 </a>
 
+### Project Items
 <a href="imgs/multimedia/wireframes/Wireframe-ProjectItems.jpg">
 <img src="imgs/multimedia/wireframes/Wireframe-ProjectItems.jpg" alt="image" width="200"/>
 </a>
 
+### Calander
 <a href="imgs/multimedia/wireframes/Wireframe-Calander.jpg">
 <img src="imgs/multimedia/wireframes/Wireframe-Calander.jpg" alt="image" width="200"/>
 </a>
 
-### Mockups
+## Mockups
 
 <img src="imgs/multimedia/mockups/Mockup-Homework.jpg" alt="image" width="200">
 <img src="imgs/multimedia/mockups/Mockup-Menu.jpg" alt="image" width="200">
@@ -63,7 +69,7 @@ using those apps as a bases I started making some basic sketches of the layout a
 <img src="imgs/multimedia/mockups/Mockup-ProjectItems.jpg" alt="image" width="200">
 <img src="imgs/multimedia/mockups/Mockup-Calander.jpg" alt="image" width="200">
 
-### Design Decisions
+## Design Decisions
 
 My intention with this app was to have a fast, easy and efficient way of viewing, completing and adding tasks to the app. Because of this the mock-up’s I have created are very minimalistic in order to keep the users focus on the listed items. I experimented with using gradients and images however they added too much noise to the screen (becoming too distracting and making it too hard to understand at a quick glance).
 
