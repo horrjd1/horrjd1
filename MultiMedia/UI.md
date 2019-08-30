@@ -29,17 +29,23 @@ After using these apps I noticed how not many of them did projects (checkboxes w
 <img src="imgs/multimedia/sketches/Scan2.jpg" alt="image" width="200">
 
 ## Wireframes
-
+<table>
+  <tr>
+    <td>
 ### Agenda
 <a href="imgs/multimedia/wireframes/Wireframe-Homework.jpg">
   <img src="imgs/multimedia/wireframes/Wireframe-Homework.jpg" alt="image" width="200" />
 </a>
  
+ </td>
+ <td>
 ### Menu
 <a href="imgs/multimedia/wireframes/Wireframe-Menu.jpg">
 <img src="imgs/multimedia/wireframes/Wireframe-Menu.jpg" alt="image" width="200"/>
 </a>
-
+</td>
+</tr>
+<table>
 ### Add Homework
 <a href="imgs/multimedia/wireframes/Wireframe-AddHomework.jpg">
 <img src="imgs/multimedia/wireframes/Wireframe-AddHomework.jpg" alt="image" width="200"/>
