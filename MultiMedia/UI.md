@@ -1,3 +1,10 @@
+<style>
+  td{
+  padding: 0px;
+  margin: 0px;
+  }
+  </style>
+
 # Multi Media UI Assignment
 
 ## Tools
@@ -36,7 +43,7 @@ All images are clickable.
 <table>
   <tr>
     <td>
-      <h1>Agenda</h1>
+      <h3>Agenda</h3>
 <a href="imgs/multimedia/wireframes/Wireframe-Homework.jpg">
   <img src="imgs/multimedia/wireframes/Wireframe-Homework.jpg" alt="image" width="200" />
 </a>
