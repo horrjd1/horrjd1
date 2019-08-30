@@ -49,8 +49,6 @@ After using these apps I noticed how not many of them did projects (checkboxes w
 ## Wireframes
 All images are clickable.
 
-### Agenda
-
 <table>
   <tr>
     <td>
