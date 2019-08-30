@@ -12,7 +12,8 @@
   }
   h3{
   padding: 0px;
-  margin: 0px;
+  margin-left: auto;
+  margin-right: auto;
   }
   </style>
 
