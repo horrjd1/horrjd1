@@ -110,24 +110,21 @@ All images are clickable.
           <img src="imgs/multimedia/mockups/Mockup-Menu.jpg" alt="image" width="200">
         </a>
     </td>
-  </tr>
-  
-  <tr>
     <td>
       <h3>Add Homework</h3>
         <a href="imgs/multimedia/mockups/Mockup-AddHomework.jpg">
           <img src="imgs/multimedia/mockups/Mockup-AddHomework.jpg" alt="image" width="200">
         </a>
     </td>
+  </tr>
+  
+  <tr>
     <td>
       <h3>Projects</h3>
         <a href="imgs/multimedia/mockups/Mockup-Projects.jpg">
           <img src="imgs/multimedia/mockups/Mockup-Projects.jpg" alt="image" width="200">
         </a>
     </td>
-  </tr>
-  
-  <tr>
     <td>
       <h3>Project Items</h3>
         <a href="imgs/multimedia/mockups/Mockup-ProjectItems.jpg">
