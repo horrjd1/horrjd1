@@ -63,24 +63,21 @@ All images are clickable.
           <img src="imgs/multimedia/wireframes/Wireframe-Menu.jpg" alt="image" width="200"/>
         </a>
     </td>
-  </tr>
-  
-  <tr>
     <td>
       <h3>Add Homework</h3>
         <a href="imgs/multimedia/wireframes/Wireframe-AddHomework.jpg">
           <img src="imgs/multimedia/wireframes/Wireframe-AddHomework.jpg" alt="image" width="200"/>
         </a>
     </td>
+  </tr>
+  
+  <tr>
     <td>
       <h3>Projects</h3>
         <a href="imgs/multimedia/wireframes/Wireframe-Projects.jpg">
           <img src="imgs/multimedia/wireframes/Wireframe-Projects.jpg" alt="image" width="200"/>
         </a>
     </td>
-  </tr>
-  
-  <tr>
     <td>
       <h3>Project Items</h3>
         <a href="imgs/multimedia/wireframes/Wireframe-ProjectItems.jpg">
