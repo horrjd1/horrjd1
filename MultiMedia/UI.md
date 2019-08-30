@@ -5,6 +5,10 @@
   td{
   padding: 0px;
   margin: 0px;
+  border: none;
+  }
+  tr{
+    border: none;
   }
   h3{
   padding: 0px;
