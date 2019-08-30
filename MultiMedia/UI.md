@@ -55,38 +55,48 @@ All images are clickable.
   <tr>
     <td>
       <h3>Agenda</h3>
-<a href="imgs/multimedia/wireframes/Wireframe-Homework.jpg">
-  <img src="imgs/multimedia/wireframes/Wireframe-Homework.jpg" alt="image" width="200" />
-</a>
+        <a href="imgs/multimedia/wireframes/Wireframe-Homework.jpg">
+          <img src="imgs/multimedia/wireframes/Wireframe-Homework.jpg" alt="image" width="200" />
+        </a>
     </td>
     <td>
-      <h1>Menu</h1>
-<a href="imgs/multimedia/wireframes/Wireframe-Menu.jpg">
-<img src="imgs/multimedia/wireframes/Wireframe-Menu.jpg" alt="image" width="200"/>
-</a>
-</td>
-</tr>
+      <h3>Menu</h3>
+        <a href="imgs/multimedia/wireframes/Wireframe-Menu.jpg">
+          <img src="imgs/multimedia/wireframes/Wireframe-Menu.jpg" alt="image" width="200"/>
+        </a>
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      <h3>Add Homework</h3>
+        <a href="imgs/multimedia/wireframes/Wireframe-AddHomework.jpg">
+          <img src="imgs/multimedia/wireframes/Wireframe-AddHomework.jpg" alt="image" width="200"/>
+        </a>
+    </td>
+    <td>
+      <h3>Projects</h3>
+        <a href="imgs/multimedia/wireframes/Wireframe-Projects.jpg">
+          <img src="imgs/multimedia/wireframes/Wireframe-Projects.jpg" alt="image" width="200"/>
+        </a>
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      <h3>Project Items</h3>
+        <a href="imgs/multimedia/wireframes/Wireframe-ProjectItems.jpg">
+          <img src="imgs/multimedia/wireframes/Wireframe-ProjectItems.jpg" alt="image" width="200"/>
+        </a>
+    </td>
+    <td>
+      <h3>Calander</h3>
+        <a href="imgs/multimedia/wireframes/Wireframe-Calander.jpg">
+          <img src="imgs/multimedia/wireframes/Wireframe-Calander.jpg" alt="image" width="200"/>
+        </a>
+    </td>
+  </tr>
 </table>
-
-### Add Homework
-<a href="imgs/multimedia/wireframes/Wireframe-AddHomework.jpg">
-<img src="imgs/multimedia/wireframes/Wireframe-AddHomework.jpg" alt="image" width="200"/>
-</a>
-
-### Projects
-<a href="imgs/multimedia/wireframes/Wireframe-Projects.jpg">
-<img src="imgs/multimedia/wireframes/Wireframe-Projects.jpg" alt="image" width="200"/>
-</a>
-
-### Project Items
-<a href="imgs/multimedia/wireframes/Wireframe-ProjectItems.jpg">
-<img src="imgs/multimedia/wireframes/Wireframe-ProjectItems.jpg" alt="image" width="200"/>
-</a>
-
-### Calander
-<a href="imgs/multimedia/wireframes/Wireframe-Calander.jpg">
-<img src="imgs/multimedia/wireframes/Wireframe-Calander.jpg" alt="image" width="200"/>
-</a>
 
 ## Mockups
 All images are clickable.
