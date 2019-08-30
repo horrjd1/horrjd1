@@ -99,35 +99,52 @@ All images are clickable.
 ## Mockups
 All images are clickable.
 
-### Agenda
-<a href="imgs/multimedia/mockups/Mockup-Homework.jpg">
-  <img src="imgs/multimedia/mockups/Mockup-Homework.jpg" alt="image" width="200"/>
-</a>
-
-### Menu
-<a href="imgs/multimedia/mockups/Mockup-Menu.jpg">
-  <img src="imgs/multimedia/mockups/Mockup-Menu.jpg" alt="image" width="200">
-</a>
-
-### Add Homework
-<a href="imgs/multimedia/mockups/Mockup-AddHomework.jpg">
-  <img src="imgs/multimedia/mockups/Mockup-AddHomework.jpg" alt="image" width="200">
-</a>
-
-### Projects
-<a href="imgs/multimedia/mockups/Mockup-Projects.jpg">
-  <img src="imgs/multimedia/mockups/Mockup-Projects.jpg" alt="image" width="200">
-</a>
-
-### Project Items
-<a href="imgs/multimedia/mockups/Mockup-ProjectItems.jpg">
-  <img src="imgs/multimedia/mockups/Mockup-ProjectItems.jpg" alt="image" width="200">
-</a>
-
-### Calander
-<a href="imgs/multimedia/mockups/Mockup-Calander.jpg">
-  <img src="imgs/multimedia/mockups/Mockup-Calander.jpg" alt="image" width="200">
-</a>
+<table>
+  <tr>
+    <td>
+      <h3>Agenda</h3>
+        <a href="imgs/multimedia/mockups/Mockup-Homework.jpg">
+          <img src="imgs/multimedia/mockups/Mockup-Homework.jpg" alt="image" width="200"/>
+        </a>
+    </td>
+    <td>
+      <h3>Menu</h3>
+        <a href="imgs/multimedia/mockups/Mockup-Menu.jpg">
+          <img src="imgs/multimedia/mockups/Mockup-Menu.jpg" alt="image" width="200">
+        </a>
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      <h3>Add Homework</h3>
+        <a href="imgs/multimedia/mockups/Mockup-AddHomework.jpg">
+          <img src="imgs/multimedia/mockups/Mockup-AddHomework.jpg" alt="image" width="200">
+        </a>
+    </td>
+    <td>
+      <h3>Projects</h3>
+        <a href="imgs/multimedia/mockups/Mockup-Projects.jpg">
+          <img src="imgs/multimedia/mockups/Mockup-Projects.jpg" alt="image" width="200">
+        </a>
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      <h3>Project Items</h3>
+        <a href="imgs/multimedia/mockups/Mockup-ProjectItems.jpg">
+          <img src="imgs/multimedia/mockups/Mockup-ProjectItems.jpg" alt="image" width="200">
+        </a>
+    </td>
+    <td>
+      <h3>Calander</h3>
+        <a href="imgs/multimedia/mockups/Mockup-Calander.jpg">
+          <img src="imgs/multimedia/mockups/Mockup-Calander.jpg" alt="image" width="200">
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## Design Decisions
 
