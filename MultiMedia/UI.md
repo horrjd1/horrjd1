@@ -32,14 +32,23 @@ After using these apps I noticed how not many of them did projects (checkboxes w
 All images are clickable.
 
 ### Agenda
+
+<table>
+  <tr>
+    <td>
+      <h1>Agenda</h1>
 <a href="imgs/multimedia/wireframes/Wireframe-Homework.jpg">
   <img src="imgs/multimedia/wireframes/Wireframe-Homework.jpg" alt="image" width="200" />
 </a>
- 
-### Menu
+    </td>
+    <td>
+      <h1>Menu</h1>
 <a href="imgs/multimedia/wireframes/Wireframe-Menu.jpg">
 <img src="imgs/multimedia/wireframes/Wireframe-Menu.jpg" alt="image" width="200"/>
 </a>
+</td>
+</tr>
+</table>
 
 ### Add Homework
 <a href="imgs/multimedia/wireframes/Wireframe-AddHomework.jpg">
