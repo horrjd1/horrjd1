@@ -14,7 +14,7 @@ I made the wireframes and the mockups to be a resolution of 750 x 1334. I did th
 
 ## Sketches
 
-before I started making the wireframes I downloaded 7 homework/task manager apps to see the features and the general layout home planner apps follow. The ones I tested were:
+before I started making the wireframes I downloaded 7 homework/task manager apps so that i could get a general idea of the features and the layout that all of them have in common. The ones I tested were:
 - Study Planner
 - Dreamie Planner
 - Remember the Milk
@@ -23,7 +23,7 @@ before I started making the wireframes I downloaded 7 homework/task manager apps
 - School Planner
 - MyLifeOrganized: To-Do List
 
-using those apps as a bases I started making some basic sketches of the layout and the UI elements.
+After using these apps I noticed how not many of them did projects (checkboxes with sub items) and didnt display overdue items, the items would just dissapear from the agenda screen and can only be viewed from the calander. Because of this I wanted to include overdue items and a projects screen my design. After using those apps as a bases I started making some basic sketches of the layout and the UI elements.
 
 <img src="imgs/multimedia/sketches/Scan1.jpg" alt="image" width="200">
 <img src="imgs/multimedia/sketches/Scan2.jpg" alt="image" width="200">
