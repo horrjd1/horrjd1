@@ -29,23 +29,17 @@ After using these apps I noticed how not many of them did projects (checkboxes w
 <img src="imgs/multimedia/sketches/Scan2.jpg" alt="image" width="200">
 
 ## Wireframes
-<table>
-  <tr>
-    <td>
+
 ### Agenda
 <a href="imgs/multimedia/wireframes/Wireframe-Homework.jpg">
   <img src="imgs/multimedia/wireframes/Wireframe-Homework.jpg" alt="image" width="200" />
 </a>
  
- </td>
- <td>
 ### Menu
 <a href="imgs/multimedia/wireframes/Wireframe-Menu.jpg">
 <img src="imgs/multimedia/wireframes/Wireframe-Menu.jpg" alt="image" width="200"/>
 </a>
-</td>
-</tr>
-<table>
+
 ### Add Homework
 <a href="imgs/multimedia/wireframes/Wireframe-AddHomework.jpg">
 <img src="imgs/multimedia/wireframes/Wireframe-AddHomework.jpg" alt="image" width="200"/>
@@ -68,12 +62,35 @@ After using these apps I noticed how not many of them did projects (checkboxes w
 
 ## Mockups
 
-<img src="imgs/multimedia/mockups/Mockup-Homework.jpg" alt="image" width="200">
-<img src="imgs/multimedia/mockups/Mockup-Menu.jpg" alt="image" width="200">
-<img src="imgs/multimedia/mockups/Mockup-AddHomework.jpg" alt="image" width="200">
-<img src="imgs/multimedia/mockups/Mockup-Projects.jpg" alt="image" width="200">
-<img src="imgs/multimedia/mockups/Mockup-ProjectItems.jpg" alt="image" width="200">
-<img src="imgs/multimedia/mockups/Mockup-Calander.jpg" alt="image" width="200">
+### Agenda
+<a href="imgs/multimedia/mockups/Mockup-Homework.jpg">
+  <img src="imgs/multimedia/mockups/Mockup-Homework.jpg" alt="image" width="200"/>
+</a>
+
+### Menu
+<a href="imgs/multimedia/mockups/Mockup-Homework.jpg">
+  <img src="imgs/multimedia/mockups/Mockup-Menu.jpg" alt="image" width="200">
+</a>
+
+### Add Homework
+<a href="imgs/multimedia/mockups/Mockup-Homework.jpg">
+  <img src="imgs/multimedia/mockups/Mockup-AddHomework.jpg" alt="image" width="200">
+</a>
+
+### Projects
+<a href="imgs/multimedia/mockups/Mockup-Homework.jpg">
+  <img src="imgs/multimedia/mockups/Mockup-Projects.jpg" alt="image" width="200">
+</a>
+
+### Project Items
+<a href="imgs/multimedia/mockups/Mockup-Homework.jpg">
+  <img src="imgs/multimedia/mockups/Mockup-ProjectItems.jpg" alt="image" width="200">
+</a>
+
+### Calander
+<a href="imgs/multimedia/mockups/Mockup-Homework.jpg">
+  <img src="imgs/multimedia/mockups/Mockup-Calander.jpg" alt="image" width="200">
+</a>
 
 ## Design Decisions
 
