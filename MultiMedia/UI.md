@@ -6,14 +6,14 @@
   padding: 0px;
   margin: 0px;
   border: none;
+  text-align: center;
   }
   tr{
     border: none;
   }
   h3{
   padding: 0px;
-  margin-left: auto;
-  margin-right: auto;
+  margin: 0px;
   }
   </style>
 
