@@ -29,6 +29,7 @@ After using these apps I noticed how not many of them did projects (checkboxes w
 <img src="imgs/multimedia/sketches/Scan2.jpg" alt="image" width="200">
 
 ## Wireframes
+All images are clickable.
 
 ### Agenda
 <a href="imgs/multimedia/wireframes/Wireframe-Homework.jpg">
@@ -61,6 +62,7 @@ After using these apps I noticed how not many of them did projects (checkboxes w
 </a>
 
 ## Mockups
+All images are clickable.
 
 ### Agenda
 <a href="imgs/multimedia/mockups/Mockup-Homework.jpg">
@@ -68,27 +70,27 @@ After using these apps I noticed how not many of them did projects (checkboxes w
 </a>
 
 ### Menu
-<a href="imgs/multimedia/mockups/Mockup-Homework.jpg">
+<a href="imgs/multimedia/mockups/Mockup-Menu.jpg">
   <img src="imgs/multimedia/mockups/Mockup-Menu.jpg" alt="image" width="200">
 </a>
 
 ### Add Homework
-<a href="imgs/multimedia/mockups/Mockup-Homework.jpg">
+<a href="imgs/multimedia/mockups/Mockup-AddHomework.jpg">
   <img src="imgs/multimedia/mockups/Mockup-AddHomework.jpg" alt="image" width="200">
 </a>
 
 ### Projects
-<a href="imgs/multimedia/mockups/Mockup-Homework.jpg">
+<a href="imgs/multimedia/mockups/Mockup-Projects.jpg">
   <img src="imgs/multimedia/mockups/Mockup-Projects.jpg" alt="image" width="200">
 </a>
 
 ### Project Items
-<a href="imgs/multimedia/mockups/Mockup-Homework.jpg">
+<a href="imgs/multimedia/mockups/Mockup-ProjectItems.jpg">
   <img src="imgs/multimedia/mockups/Mockup-ProjectItems.jpg" alt="image" width="200">
 </a>
 
 ### Calander
-<a href="imgs/multimedia/mockups/Mockup-Homework.jpg">
+<a href="imgs/multimedia/mockups/Mockup-Calander.jpg">
   <img src="imgs/multimedia/mockups/Mockup-Calander.jpg" alt="image" width="200">
 </a>
 
