@@ -4,12 +4,17 @@
 
 For this assignment I used Adobe Illustrator for the wireframes and Photoshop for the mock-ups.
 
-The reason why I used Illustrator for the wireframes is because of how it manages its objects. Every shape placed on the page can be moved and resized separately even when they're on the same layer. Since Illustrator is a vector-based software the elements never lost any quality. This was useful for making the wireframes as I was moving and changing the elements on the page frequently.
+The reason why I used Illustrator for the wireframes is because of how it manages its objects. Every shape placed on the page can be moved and resized separately even when they're on the same layer. Since Illustrator is a vector-based software the elements never lost any quality. This was useful for making the wireframes as I was moving and changing the elements on the page frequently. 
+
+The reason I used photoshop for the mockups was because it ____
+It was also the software that I was more familiar with
+
+I made the wireframes and the mockups to be a resolution of 750 x 1334. I did this becaus ethat is the resolution of the iphone 6 which is the best selling and most used touchscreen phone. I exported all of my images in the .jpg format. I did this because jpgs are a lossy format (meaning that it gets compressed), This will make them load faster on the web page im deploying them on. Also they are just wireframes and mockups so it doesnt matter if some of the quality is lost 
 
 
 ### Sketches
 
-before I started making the wireframes I downloaded 7 homework/task manager apps so that I could keep my app consistent
+before I started making the wireframes I downloaded 7 homework/task manager apps to see the features and the general layout home planner apps follow. The ones I tested were:
 - Study Planner
 - Dreamie Planner
 - Remember the Milk
@@ -18,34 +23,33 @@ before I started making the wireframes I downloaded 7 homework/task manager apps
 - School Planner
 - MyLifeOrganized: To-Do List
 
-After testing those apps I started making some basic sketches of the layout and the UI elements.
+using those apps as a bases I started making some basic sketches of the layout and the UI elements.
 
 <img src="imgs/multimedia/sketches/Scan1.jpg" alt="image" width="200">
 <img src="imgs/multimedia/sketches/Scan2.jpg" alt="image" width="200">
 
 ### Wireframes
 
-<figure>
 <a href="imgs/multimedia/wireframes/Wireframe-Homework.jpg">
   <img src="imgs/multimedia/wireframes/Wireframe-Homework.jpg" alt="image" width="200" />
 </a>
-  <figcaption>
-    Homework Screen
-  </figcaption>
- </figure>
  
 <a href="imgs/multimedia/wireframes/Wireframe-Menu.jpg">
 <img src="imgs/multimedia/wireframes/Wireframe-Menu.jpg" alt="image" width="200"/>
 </a>
+
 <a href="imgs/multimedia/wireframes/Wireframe-AddHomework.jpg">
 <img src="imgs/multimedia/wireframes/Wireframe-AddHomework.jpg" alt="image" width="200"/>
 </a>
+
 <a href="imgs/multimedia/wireframes/Wireframe-Projects.jpg">
 <img src="imgs/multimedia/wireframes/Wireframe-Projects.jpg" alt="image" width="200"/>
 </a>
+
 <a href="imgs/multimedia/wireframes/Wireframe-ProjectItems.jpg">
 <img src="imgs/multimedia/wireframes/Wireframe-ProjectItems.jpg" alt="image" width="200"/>
 </a>
+
 <a href="imgs/multimedia/wireframes/Wireframe-Calander.jpg">
 <img src="imgs/multimedia/wireframes/Wireframe-Calander.jpg" alt="image" width="200"/>
 </a>
