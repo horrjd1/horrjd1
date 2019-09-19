@@ -18,3 +18,50 @@
 <div class="resp-container">
 <iframe class="resp-iframe" src="https://www.youtube.com/embed/-JR7h4kgNoM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+
+Shot list
+<table>
+	<tr>
+    <th>Camera Subject</th>
+    <th>Shot Type</th>
+		<th>Camera Angle</th>
+		<th>Camera Move</th>
+	</tr>
+	<tr>
+		<td>Actor</td>
+    <td>Medium Close-up</td>
+    <td>Eye level</td>
+    <td>None</td>
+  </tr>
+  <tr>
+		<td>Razer Synapse Software</td>
+    <td>Screen recording</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+    <tr>
+		<td>Overwatch (game)</td>
+    <td>Screen recording</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+    <tr>
+		<td>Keyboard Fulls</td>
+    <td>Full shot</td>
+    <td>Birds eye view</td>
+    <td>None</td>
+  </tr>
+    <tr>
+		<td>Keyboard Sections</td>
+    <td>Close-up, medium, Full</td>
+    <td>High angle, low angle</td>
+    <td>none</td>
+  </tr>
+      <tr>
+		<td>Keyboard Pans</td>
+    <td>Close-up</td>
+    <td>High angle</td>
+    <td>Pan</td>
+  </tr>
+ </table>
