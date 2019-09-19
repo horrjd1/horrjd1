@@ -20,48 +20,50 @@
 </div>
 
 
-Shot list
+##Shot list
 <table>
 	<tr>
-    <th>Camera Subject</th>
-    <th>Shot Type</th>
+    		<th>Camera Subject</th>
+    		<th>Shot Type</th>
 		<th>Camera Angle</th>
 		<th>Camera Move</th>
 	</tr>
 	<tr>
 		<td>Actor</td>
-    <td>Medium Close-up</td>
-    <td>Eye level</td>
-    <td>None</td>
-  </tr>
-  <tr>
+    		<td>Medium Close-up</td>
+    		<td>Eye level</td>
+    		<td>None</td>
+ 	</tr>
+  	<tr>
 		<td>Razer Synapse Software</td>
-    <td>Screen recording</td>
-    <td>-</td>
-    <td>-</td>
-  </tr>
-    <tr>
+    		<td>Screen recording</td>
+    		<td>-</td>
+    		<td>-</td>
+  	</tr>
+    	<tr>
 		<td>Overwatch (game)</td>
-    <td>Screen recording</td>
-    <td>-</td>
-    <td>-</td>
-  </tr>
-    <tr>
+    		<td>Screen recording</td>
+    		<td>-</td>
+    		<td>-</td>
+  	</tr>
+    	<tr>
 		<td>Keyboard Fulls</td>
-    <td>Full shot</td>
-    <td>Birds eye view</td>
-    <td>None</td>
-  </tr>
-    <tr>
+    		<td>Full shot</td>
+    		<td>Birds eye view</td>
+    		<td>None</td>
+  	</tr>
+    	<tr>
 		<td>Keyboard Sections</td>
-    <td>Close-up, medium, Full</td>
-    <td>High angle, low angle</td>
-    <td>none</td>
-  </tr>
-      <tr>
+    		<td>Close-up, medium, Full</td>
+    		<td>High angle, low angle</td>
+    		<td>none</td>
+  	</tr>
+      	<tr>
 		<td>Keyboard Pans</td>
-    <td>Close-up</td>
-    <td>High angle</td>
-    <td>Pan</td>
-  </tr>
- </table>
+    		<td>Close-up</td>
+    		<td>High angle</td>
+    		<td>Pan</td>
+  	</tr>
+</table>
+
+I havent listed out all of the keyboard full, section and pan shots as there will be too many that only slightly change the angle, I have listed these in the storyboard.
