@@ -66,10 +66,8 @@
   	</tr>
 </table>
 
-I havent listed out all of the keyboard full, section and pan shots as there will be too many that only slightly change the angle, So I plan to experiment with angles during the filming. I plan to get alot more footage then I need and to use the best shots for the video. Im doing this because there are alot of parts in the review where im generally speaking about the keyboard as a whole (such as the conclusion) where I cant accuratly plan out what shots are going to be shown. So in post production I will find a selection of the best of these angles shots during these sections.
-
-I have listed the shots I know I need in the storyboard (shots showing features that I talk about specifically). 
+I havent listed out all of the keyboard full, section and pan shots as there will be too many that only slightly change the angle, So I plan to experiment with angles during the filming. Im doing this because there are alot of parts in the review where im generally speaking about the keyboard as a whole (such as the conclusion) where I cant accuratly plan out what shots are going to be shown. Ill be getting alot of angled section shotsmore footage then I need So in post production I will find a selection of the best of these angles shots during these sections.
 
 ## Storyboard
 
-
+I have listed the shots I know I need in the storyboard (shots showing features that I talk about specifically). 
