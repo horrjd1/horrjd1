@@ -113,6 +113,7 @@ Almost all of my video was black and white (white desk and black keyboard) so th
 In the ‘Colour-Correction’ effect I increased the saturation a small amount. In order to make the keyboards backlight more vibrant.
 In the ‘Colour-Curves’ effect I increased the contrast in order to make the desk whiter and the keyboard darker
 
+<img src="imgs/multimedia/video/Colour-Correction-How.PNG" alt="image" width="400" />
 
 ### Screen Pump Transition
 
