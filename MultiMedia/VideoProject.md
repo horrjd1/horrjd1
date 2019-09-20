@@ -65,9 +65,11 @@
     		<td>Pan</td>
   	</tr>
 </table>
-(Fulls mean 
+(Fulls mean showing the keyboard of its entirety)
+(Sections means showing a section of the keyboard)
+(Pans means panning over keys)
 
-I havent listed out all of the keyboard full, section and pan shots as there will be too many that only slightly change the angle, So I plan to experiment with angles during the filming. Im doing this because there are alot of parts in the review where im generally speaking about the keyboard as a whole (such as the conclusion) where I cant accuratly plan out what shots are going to be shown. For these moments I plan to use a variety of angled section shots
+I havent listed out all of the keyboard full, section and pan shots as there will be too many that only slightly change the angle, So I plan to experiment with angles during the filming. Im doing this because there are alot of parts in the review where im generally speaking about the keyboard as a whole (such as the conclusion) where I cant accuratly plan out what shots are going to be shown. For these moments I plan to use a variety of angled section shots.
 
 more footage then I need So in post production I will find a selection of the best of these angles shots during these sections.
 
