@@ -75,7 +75,7 @@ I havent listed out all of the keyboard full, section and pan shots as there wil
 
 I have listed the shots I know I need in the storyboard (shots showing features that I talk about specifically). 
 
-
+imgs not working for some reason, go to https://github.com/horrjd1/horrjd1/tree/master/imgs/multimedia/video to see imgs
 <img src="imgs/multimedia/video/storyboard.jpg" alt="image" width="400" />
 
 
