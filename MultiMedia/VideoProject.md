@@ -111,9 +111,12 @@ I decided to start the video with me talking to the camera, I did this because f
 Almost all of my video was black and white (white desk and black keyboard) so the impact of my colour correction was mostly to create contrast between the two, as well as make the keyboards backlighting more vibrant. I used two video effects to achieve this.
 
 In the ‘Colour-Correction’ effect I increased the saturation a small amount. In order to make the keyboards backlight more vibrant.
-In the ‘Colour-Curves’ effect I increased the contrast in order to make the desk whiter and the keyboard darker
 
 <img src="imgs/multimedia/video/Colour-Correction-How.PNG" alt="image" width="400" />
+
+In the ‘Colour-Curves’ effect I increased the contrast in order to make the desk whiter and the keyboard darker
+
+<img src="imgs/multimedia/video/Curves.PNG" alt="image" width="400" />
 
 ### Screen Pump Transition
 
@@ -141,9 +144,13 @@ I used to types of fading in my video. Fading into another clip and fading to an
 
 I used 20 frames as a standard for fading duration between two shots, but increased or decreased the length when necessary. For example when the fade happens mid-sentence, then I would stretch the fade length in order to make the footage less abrupt.
 
+<img src="imgs/multimedia/video/Fades.PNG" alt="image" width="400" />
+
 ### Stabilization
 
 For my panning shots I used Vegas’s stabilization effect. For this effect I set the ‘Pan smoothing’ to 50 and the ‘Stabilization amount’ to 20 as increasing the stabilization amount any more would make the footage too far zoomed in.
+
+<img src="imgs/multimedia/video/Stabilization.PNG" alt="image" width="400" />
 
 
 ### File Structure
