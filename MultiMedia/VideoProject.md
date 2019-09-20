@@ -75,7 +75,7 @@ I havent listed out all of the keyboard full, section and pan shots as there wil
 I have listed the shots I know I need in the storyboard (shots showing features that I talk about specifically). 
 
 <a href="imgs/multimedia/video/storyboard.jpg">
-	<img src="imgs/multimedia/video/storyboard.jpg" alt="image" width="400" />
+	<img src="imgs/multimedia/video/storyboard.jpg" alt="image" width="600" />
 </a>
 
 ## Script
@@ -121,7 +121,7 @@ Almost all of my video was black and white (white desk and black keyboard) so th
 In the ‘Colour-Correction’ effect I increased the saturation a small amount. In order to make the keyboards backlight more vibrant.
 
 <a href="imgs/multimedia/video/Colour-Correction-How.PNG">
-	<img src="imgs/multimedia/video/Colour-Correction-How.PNG" alt="image" width="400" />
+	<img src="imgs/multimedia/video/Colour-Correction-How.PNG" alt="image" width="300" />
 </a>
 
 In the ‘Colour-Curves’ effect I increased the contrast in order to make the desk whiter and the keyboard darker
