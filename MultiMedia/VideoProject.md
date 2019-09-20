@@ -81,7 +81,9 @@ I have listed the shots I know I need in the storyboard (shots showing features 
 ## Script
 
 link to script:
+<a href="Video%20Script.docx">
 https://github.com/horrjd1/horrjd1/blob/master/MultiMedia/Video%20Script.docx
+</a>
 
 ## Decisions
 
@@ -185,8 +187,6 @@ The footage folder was separated into four subfolders separating the recordings 
 	<img src="imgs/multimedia/video/Files-2.PNG" alt="image" width="400" />
 </a>
 
-Since the preview in Vegas can lag slightly during effects or fades, I exported some of these small sections of the video to check that the timing matched up properly etc.
-
 ### Rendering
 
 When rendering the final version I used an internet template that Vegas already had. 
@@ -198,3 +198,4 @@ I didn’t need to change the video codec as AVC is the same as H.264.
 
 However since my video was 1080p 30fps I used a 10Mbps bitrate instead of a 16Mbps. This would decrease the file size without losing any video quality.
 
+Since the preview in Vegas can lag slightly during effects or fades, I exported some of these small sections of the video to check that the timing matched up properly etc.
