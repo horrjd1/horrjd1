@@ -19,6 +19,10 @@
 <iframe class="resp-iframe" src="https://www.youtube.com/embed/-JR7h4kgNoM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+#### imgs not working for some reason 
+go to https://github.com/horrjd1/horrjd1/tree/master/imgs/multimedia/video to see images
+
+
 
 ## Shot list
 <table>
@@ -75,8 +79,7 @@ I havent listed out all of the keyboard full, section and pan shots as there wil
 
 I have listed the shots I know I need in the storyboard (shots showing features that I talk about specifically). 
 
-#### imgs not working for some reason 
-go to https://github.com/horrjd1/horrjd1/tree/master/imgs/multimedia/video to see imgages
+
 <img src="imgs/multimedia/video/storyboard.jpg" alt="image" width="400" />
 
 
@@ -157,7 +160,11 @@ For my panning shots I used Vegas’s stabilization effect. For this effect I se
 
 Since this project involved a lot of files, I made sure to keep my file system clean and organized. I kept all the different elements of the video (music, graphics etc) in their own folders.
 
+<img src="imgs/multimedia/video/Files.PNG" alt="image" width="400" />
+
 The footage folder was separated into four subfolders separating the recordings by what the subject is. 
+
+<img src="imgs/multimedia/video/Files-2.PNG" alt="image" width="400" />
 
 Since the preview in Vegas can lag slightly during effects or fades, I exported some of these small sections of the video to check that the timing matched up properly etc.
 
