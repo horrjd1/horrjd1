@@ -65,8 +65,11 @@
     		<td>Pan</td>
   	</tr>
 </table>
+(Fulls mean 
 
-I havent listed out all of the keyboard full, section and pan shots as there will be too many that only slightly change the angle, So I plan to experiment with angles during the filming. Im doing this because there are alot of parts in the review where im generally speaking about the keyboard as a whole (such as the conclusion) where I cant accuratly plan out what shots are going to be shown. Ill be getting alot of angled section shotsmore footage then I need So in post production I will find a selection of the best of these angles shots during these sections.
+I havent listed out all of the keyboard full, section and pan shots as there will be too many that only slightly change the angle, So I plan to experiment with angles during the filming. Im doing this because there are alot of parts in the review where im generally speaking about the keyboard as a whole (such as the conclusion) where I cant accuratly plan out what shots are going to be shown. For these moments I plan to use a variety of angled section shots
+
+more footage then I need So in post production I will find a selection of the best of these angles shots during these sections.
 
 ## Storyboard
 
