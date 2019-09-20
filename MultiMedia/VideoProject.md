@@ -103,9 +103,9 @@ I decided to start the video with me talking to the camera, I did this because f
 
 #### Comparisons (my version on the left, original footage on the right)
 
-<img src="imgs/multimedia/video/Colour-Correction-1.jpg" alt="image" width="400" />
-<img src="imgs/multimedia/video/Colour-Correction-2.jpg" alt="image" width="400" />
-<img src="imgs/multimedia/video/Colour-Correction-3.jpg" alt="image" width="400" />
+<img src="imgs/multimedia/video/Colour-Correction-1.PNG" alt="image" width="400" />
+<img src="imgs/multimedia/video/Colour-Correction-2.PNG" alt="image" width="400" />
+<img src="imgs/multimedia/video/Colour-Correction-3.PNG" alt="image" width="400" />
 
 Almost all of my video was black and white (white desk and black keyboard) so the impact of my colour correction was mostly to create contrast between the two, as well as make the keyboards backlighting more vibrant. I used two video effects to achieve this.
 
