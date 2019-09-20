@@ -75,7 +75,8 @@ I havent listed out all of the keyboard full, section and pan shots as there wil
 
 I have listed the shots I know I need in the storyboard (shots showing features that I talk about specifically). 
 
-imgs not working for some reason, go to https://github.com/horrjd1/horrjd1/tree/master/imgs/multimedia/video to see imgs
+#### imgs not working for some reason 
+go to https://github.com/horrjd1/horrjd1/tree/master/imgs/multimedia/video to see imgages
 <img src="imgs/multimedia/video/storyboard.jpg" alt="image" width="400" />
 
 
@@ -126,6 +127,8 @@ And used it again when transitioning into the gameplay in order to keep have a d
 #### How I made it
 
 In order to create this effect I used the ‘BlurMoCurves’ effect. This effect had to be made on each of the two clips on either side of the transition.
+
+<img src="imgs/multimedia/video/Screen-Pump-1.PNG" alt="image" width="400" />
 
 On the first clip I created key frames at the end of the clip and 4 frames before the end of the clip. Using those key frames I made the Z Distance go from 1 to 1.6. This gave it a smooth, blurred zoom out. I also made the footage wrap when it zoomed out so that it didn’t zoom out into black.
 
