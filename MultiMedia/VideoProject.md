@@ -75,6 +75,10 @@ I havent listed out all of the keyboard full, section and pan shots as there wil
 
 I have listed the shots I know I need in the storyboard (shots showing features that I talk about specifically). 
 
+<a href="imgs/multimedia/wireframes/Wireframe-Homework.jpg">
+	<img src="imgs/multimedia/wireframes/Wireframe-Homework.jpg" alt="image" width="200" />
+</a>
+
 ## Decisions
 
 For the whole video I decide to mostly use fades as transitions, as the background footage was static or slow panning, so I used fades to keep the relaxed atmosphere. I changed up the transitions for the intro and the transition to the game. I did this on the intro because it provides a visual way to separate the title screen/intro shots from the video itself, and I did it on the games because it visualises jumping into a game.
