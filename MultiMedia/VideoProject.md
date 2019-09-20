@@ -20,7 +20,7 @@
 </div>
 
 
-##Shot list
+## Shot list
 <table>
 	<tr>
     		<th>Camera Subject</th>
@@ -70,6 +70,6 @@ I havent listed out all of the keyboard full, section and pan shots as there wil
 
 I have listed the shots I know I need in the storyboard (shots showing features that I talk about specifically). 
 
-##Storyboard
+## Storyboard
 
 
