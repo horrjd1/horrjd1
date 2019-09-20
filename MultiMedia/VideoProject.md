@@ -121,18 +121,18 @@ On the first clip I created key frames at the end of the clip and 4 frames befor
 
 Then for the second clip I did the opposite. I created key frames at the start and 4 frames after the start, and by using those key frames I made the Z Distance go from 0.6 to 1.
 
-## Fading
+### Fading
 
 I used to types of fading in my video. Fading into another clip and fading to and from black
 
 I used 20 frames as a standard for fading duration between two shots, but increased or decreased the length when necessary. For example when the fade happens mid-sentence, then I would stretch the fade length in order to make the footage less abrupt.
 
-## Stabilization
+### Stabilization
 
 For my panning shots I used Vegas’s stabilization effect. For this effect I set the ‘Pan smoothing’ to 50 and the ‘Stabilization amount’ to 20 as increasing the stabilization amount any more would make the footage too far zoomed in.
 
 
-## File Structure
+### File Structure
 
 Since this project involved a lot of files, I made sure to keep my file system clean and organized. I kept all the different elements of the video (music, graphics etc) in their own folders.
 
@@ -140,7 +140,7 @@ The footage folder was separated into four subfolders separating the recordings 
 
 Since the preview in Vegas can lag slightly during effects or fades, I exported some of these small sections of the video to check that the timing matched up properly etc.
 
-## Rendering
+### Rendering
 
 When rendering the final version I used an internet template that Vegas already had. 
 
