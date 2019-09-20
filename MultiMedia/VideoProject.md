@@ -76,7 +76,7 @@ I havent listed out all of the keyboard full, section and pan shots as there wil
 I have listed the shots I know I need in the storyboard (shots showing features that I talk about specifically). 
 
 
-	<img src="imgs/multimedia/video/storyboard.jpg" alt="image" width="400" />
+<img src="imgs/multimedia/video/storyboard.jpg" alt="image" width="400" />
 
 
 ## Decisions
@@ -101,11 +101,15 @@ I decided to start the video with me talking to the camera, I did this because f
 
 ### Colour Correction
 
-Comparisons (my version on the left, original footage on the right)
+#### Comparisons (my version on the left, original footage on the right)
+
+<img src="imgs/multimedia/video/Colour-Correction-1.jpg" alt="image" width="400" />
+<img src="imgs/multimedia/video/Colour-Correction-2.jpg" alt="image" width="400" />
+<img src="imgs/multimedia/video/Colour-Correction-3.jpg" alt="image" width="400" />
+
 Almost all of my video was black and white (white desk and black keyboard) so the impact of my colour correction was mostly to create contrast between the two, as well as make the keyboards backlighting more vibrant. I used two video effects to achieve this.
 
 In the ‘Colour-Correction’ effect I increased the saturation a small amount. In order to make the keyboards backlight more vibrant.
-
 In the ‘Colour-Curves’ effect I increased the contrast in order to make the desk whiter and the keyboard darker
 
 
