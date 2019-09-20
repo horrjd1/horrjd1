@@ -19,11 +19,6 @@
 <iframe class="resp-iframe" src="https://www.youtube.com/embed/-JR7h4kgNoM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-#### imgs not working for some reason 
-go to https://github.com/horrjd1/horrjd1/tree/master/imgs/multimedia/video to see images
-
-
-
 ## Shot list
 <table>
 	<tr>
