@@ -79,8 +79,9 @@ I havent listed out all of the keyboard full, section and pan shots as there wil
 
 I have listed the shots I know I need in the storyboard (shots showing features that I talk about specifically). 
 
-
-<img src="imgs/multimedia/video/storyboard.jpg" alt="image" width="400" />
+<a href="imgs/multimedia/video/storyboard.jpg">
+	<img src="imgs/multimedia/video/storyboard.jpg" alt="image" width="400" />
+</a>
 
 ## Script
 
@@ -110,20 +111,29 @@ I decided to start the video with me talking to the camera, I did this because f
 ### Colour Correction
 
 #### Comparisons (my version on the left, original footage on the right)
-
-<img src="imgs/multimedia/video/Colour-Correction-1.PNG" alt="image" width="400" />
-<img src="imgs/multimedia/video/Colour-Correction-2.PNG" alt="image" width="400" />
-<img src="imgs/multimedia/video/Colour-Correction-3.PNG" alt="image" width="400" />
+<a href="imgs/multimedia/video/Colour-Correction-3.PNG">
+	<img src="imgs/multimedia/video/Colour-Correction-3.PNG" alt="image" width="400" />
+</a>
+<a href="imgs/multimedia/video/Colour-Correction-1.PNG">
+	<img src="imgs/multimedia/video/Colour-Correction-1.PNG" alt="image" width="400" />
+</a>
+<a href="imgs/multimedia/video/Colour-Correction-2.PNG">
+	<img src="imgs/multimedia/video/Colour-Correction-2.PNG" alt="image" width="400" />
+</a>
 
 Almost all of my video was black and white (white desk and black keyboard) so the impact of my colour correction was mostly to create contrast between the two, as well as make the keyboards backlighting more vibrant. I used two video effects to achieve this.
 
 In the ‘Colour-Correction’ effect I increased the saturation a small amount. In order to make the keyboards backlight more vibrant.
 
-<img src="imgs/multimedia/video/Colour-Correction-How.PNG" alt="image" width="400" />
+<a href="imgs/multimedia/video/Colour-Correction-How.PNG">
+	<img src="imgs/multimedia/video/Colour-Correction-How.PNG" alt="image" width="400" />
+</a>
 
 In the ‘Colour-Curves’ effect I increased the contrast in order to make the desk whiter and the keyboard darker
 
-<img src="imgs/multimedia/video/Curves.PNG" alt="image" width="400" />
+<a href="imgs/multimedia/video/Curves.PNG">
+	<img src="imgs/multimedia/video/Curves.PNG" alt="image" width="400" />
+</a>
 
 ### Screen Pump Transition
 
@@ -139,7 +149,9 @@ And used it again when transitioning into the gameplay in order to keep have a d
 
 In order to create this effect I used the ‘BlurMoCurves’ effect. This effect had to be made on each of the two clips on either side of the transition.
 
-<img src="imgs/multimedia/video/Screen-Pump-1.PNG" alt="image" width="400" />
+<a href="imgs/multimedia/video/Screen-Pump-1.PNG">
+	<img src="imgs/multimedia/video/Screen-Pump-1.PNG" alt="image" width="400" />
+</a>
 
 On the first clip I created key frames at the end of the clip and 4 frames before the end of the clip. Using those key frames I made the Z Distance go from 1 to 1.6. This gave it a smooth, blurred zoom out. I also made the footage wrap when it zoomed out so that it didn’t zoom out into black.
 
@@ -151,24 +163,32 @@ I used to types of fading in my video. Fading into another clip and fading to an
 
 I used 20 frames as a standard for fading duration between two shots, but increased or decreased the length when necessary. For example when the fade happens mid-sentence, then I would stretch the fade length in order to make the footage less abrupt.
 
-<img src="imgs/multimedia/video/Fades.PNG" alt="image" width="400" />
+<a href="imgs/multimedia/video/Fades.PNG">
+	<img src="imgs/multimedia/video/Fades.PNG" alt="image" width="400" />
+</a>
 
 ### Stabilization
 
 For my panning shots I used Vegas’s stabilization effect. For this effect I set the ‘Pan smoothing’ to 50 and the ‘Stabilization amount’ to 20 as increasing the stabilization amount any more would make the footage too far zoomed in.
 
-<img src="imgs/multimedia/video/Stabilization.PNG" alt="image" width="400" />
+<a href="imgs/multimedia/video/Stabilization.PNG">
+	<img src="imgs/multimedia/video/Stabilization.PNG" alt="image" width="400" />
+</a>
 
 
 ### File Structure
 
 Since this project involved a lot of files, I made sure to keep my file system clean and organized. I kept all the different elements of the video (music, graphics etc) in their own folders.
 
-<img src="imgs/multimedia/video/Files.PNG" alt="image" width="400" />
+<a href="imgs/multimedia/video/Files.PNG">
+	<img src="imgs/multimedia/video/Files.PNG" alt="image" width="400" />
+</a>
 
 The footage folder was separated into four subfolders separating the recordings by what the subject is. 
 
-<img src="imgs/multimedia/video/Files-2.PNG" alt="image" width="400" />
+<a href="imgs/multimedia/video/Files-2.PNG">
+	<img src="imgs/multimedia/video/Files-2.PNG" alt="image" width="400" />
+</a>
 
 Since the preview in Vegas can lag slightly during effects or fades, I exported some of these small sections of the video to check that the timing matched up properly etc.
 
