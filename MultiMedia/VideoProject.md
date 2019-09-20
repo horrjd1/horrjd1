@@ -82,6 +82,10 @@ I have listed the shots I know I need in the storyboard (shots showing features 
 
 <img src="imgs/multimedia/video/storyboard.jpg" alt="image" width="400" />
 
+## Script
+
+link to script:
+https://github.com/horrjd1/horrjd1/blob/master/MultiMedia/Video%20Script.docx
 
 ## Decisions
 
