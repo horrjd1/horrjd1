@@ -75,9 +75,9 @@ I havent listed out all of the keyboard full, section and pan shots as there wil
 
 I have listed the shots I know I need in the storyboard (shots showing features that I talk about specifically). 
 
-<a href="imgs/multimedia/video/storyboard.jpg">
+
 	<img src="imgs/multimedia/video/storyboard.jpg" alt="image" width="400" />
-</a>
+
 
 ## Decisions
 
