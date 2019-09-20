@@ -91,8 +91,7 @@ For some of the shots I tried to get my phone camera to change focus midway thro
 
 This was also the reason that I used my custom wave lighting effect on the keyboard, to give it a sense of movement. I also tried to match the colours with the wallpaper of my computer so that when it transitions to the screen recording it doesn’t feel too jarring.
 
-The music I used is copyright and royalty free and was intended to be used in the background of YouTube videos. I credited the author in the description as is required when using the song. I decide that a relaxing electronic song would be best but they were hard to find so hiphop was the next best thing. -----
-Song also matched my plans for the opening, it had a good build up at the start.
+The music I used is copyright and royalty free and was intended to be used in the background of YouTube videos. I credited the author in the description as is required when using the song. I decide that a relaxing electronic or hip hop song would siut the video the best as its a tech video. The song that I chose also matched my plans for the opening, by this I mean that it had a good build up at the start for the title screen and .
 
 I decided to start the video with me talking to the camera, I did this because for the intro, I wasn’t talking about the keyboard, and instead I was talking about people (possibly some of them watching). Since it was addressed to the viewer, I talked to the camera.
 
